@@ -1,4 +1,7 @@
-# Watsonx-Data Vest Workshop 
+# Watsonx-Data 
+
+Below are the list of documentations used for watsonx.data:
+
 [Supporting Scripts and Code for Hands On Lab](https://github.com/cloud-native-toolkit/watsonx-data/tree/main/Supporting%20Scripts)
 
 [Environment Preparation for Retail Demo](https://github.com/cloud-native-toolkit/watsonx-data/blob/main/Environement%20Preparatrion%20for%20Retail%20Lab.docx)
